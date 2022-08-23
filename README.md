@@ -6,7 +6,7 @@ A Software Engineer focused Web and mobile Developer building the Frontend and B
 
 ---
 
-I am always open to job opportunities where I can contribute, learn and grow
+I am always open to **job** opportunities where I can contribute, learn and grow
 Feel free to visit my website **[MondherKamkoum](https://mondherkamkoum.netlify.app)** .
 
 ---
